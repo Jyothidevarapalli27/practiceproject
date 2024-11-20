@@ -1,5 +1,5 @@
 public class AssignmentOperators {
-    public static void main (String args[]){
+    public AssignmentOperators(){
         //Assignment primitive values
         int j,k;
         j = 10; // j get the value 10
